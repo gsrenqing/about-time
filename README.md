@@ -9,9 +9,8 @@ A full-featured Windows desktop clock widget: world clocks, calendar, lunar cale
 ## Repository Layout
 
 ```
-├─ 源码/            # C# sources, fonts, city/timezone/lunar/holiday data, alarm sounds, build notes
-├─ 成品/            # Compiled AboutTime.exe and notes
-├─ 审阅报告_v2.1_BUG与优化.md
+├─ 源码/            # C# sources, fonts, city/timezone/lunar/holiday data, alarm sounds
+├─ 成品/            # Compiled AboutTime.exe
 ├─ LICENSE          # GPL-3.0
 └─ README.md
 ```
@@ -38,8 +37,6 @@ cd 源码
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe @compile.rsp
 ```
 
-See `源码\编译说明.txt` for the detailed build baseline.
-
 ## Run
 
 Double-click `成品\AboutTime.exe`. Before removing the program, use the widget's right-click menu to choose "Close all windows and clear all configuration" so no system residue remains.
@@ -63,9 +60,8 @@ This project is open-sourced under **GPL-3.0**; see [LICENSE](LICENSE). For non-
 ## 目录结构
 
 ```
-├─ 源码/            # C# 源码、字体、城市/时区/农历/节日数据、提示音、编译说明
-├─ 成品/            # 已编译的 AboutTime.exe 与说明
-├─ 审阅报告_v2.1_BUG与优化.md
+├─ 源码/            # C# 源码、字体、城市/时区/农历/节日数据、提示音
+├─ 成品/            # 已编译的 AboutTime.exe
 ├─ LICENSE          # GPL-3.0
 └─ README.md
 ```
@@ -91,8 +87,6 @@ This project is open-sourced under **GPL-3.0**; see [LICENSE](LICENSE). For non-
 cd 源码
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe @compile.rsp
 ```
-
-详细编译口径见 `源码\编译说明.txt`。
 
 ## 运行
 
