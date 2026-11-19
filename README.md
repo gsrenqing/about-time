@@ -1,10 +1,65 @@
 # About Time
 
-一款功能完整的 Windows 桌面时钟挂件：世界时钟、日历、农历与干支、节日标红、闹钟、磨砂背景、多显示器适配，支持中英文自动切换。
+A full-featured Windows desktop clock widget: world clocks, calendar, lunar calendar and Ganzhi (sexagenary cycle), holiday highlighting, alarm, frosted background, multi-monitor support, with automatic Chinese/English switching.
 
-- 当前版本：**v2.1**
-- 运行环境：Windows 10 / 11（.NET Framework 4.x）
-- 技术栈：C# / WinForms
+- Version: **v2.1**
+- Runtime: Windows 10 / 11 (.NET Framework 4.x)
+- Stack: C# / WinForms
+
+## Repository Layout
+
+```
+├─ 源码/            # C# sources, fonts, city/timezone/lunar/holiday data, alarm sounds, build notes
+├─ 成品/            # Compiled AboutTime.exe and notes
+├─ 审阅截图/        # Acceptance & review screenshots
+├─ 审阅报告_v2.1_BUG与优化.md
+├─ LICENSE          # GPL-3.0
+└─ README.md
+```
+
+## Main Modules
+
+| Source file | Responsibility |
+|---|---|
+| `Main.cs` | Entry point and main flow |
+| `Widget.cs` | Main widget UI and rendering |
+| `Calendar.cs` | Calendar module |
+| `Timer.cs` | Timing and refresh |
+| `Ganzhi.cs` | Ganzhi / lunar calculation |
+| `TimeZoneMatcher.cs` | City timezone matching |
+| `WallpaperFrost.cs` | Frosted background effect |
+| `Support.cs` | Helpers and shared logic |
+
+## Build from Source
+
+Use the .NET Framework built-in `csc.exe` (no Visual Studio required):
+
+```powershell
+cd 源码
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe @compile.rsp
+```
+
+See `源码\编译说明.txt` for the detailed build baseline.
+
+## Run
+
+Double-click `成品\AboutTime.exe`. Before removing the program, use the widget's right-click menu to choose "Close all windows and clear all configuration" so no system residue remains.
+
+## Data Sources
+
+- City/timezone data: GeoNames geographic database under CC-BY 4.0 (geonames.org)
+- Chinese administrative divisions: codes from the Ministry of Civil Affairs of the PRC
+- Artwork inspired by the bedside clock 2 widget in Coolfish Desktop / XWidgets; thanks to the original author Jimking
+
+## License
+
+This project is open-sourced under **GPL-3.0**; see [LICENSE](LICENSE). For non-commercial study and testing only. The author is not liable for any issues arising from its use and does not commit to future upgrades.
+
+---
+
+# 中文说明
+
+一款功能完整的 Windows 桌面时钟挂件：世界时钟、日历、农历与干支、节日标红、闹钟、磨砂背景、多显示器适配，支持中英文自动切换。
 
 ## 目录结构
 
