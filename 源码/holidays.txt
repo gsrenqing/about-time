@@ -1,0 +1,162 @@
+中国|CN|M|01-01|元旦|New Year|F
+中国|CN|M|05-04|五四青年节|Youth Day|4
+中国|CN|M|06-01|儿童节|Childrens
+中国|CN|M|07-01|建党节|Party Day
+中国|CN|M|08-01|建军节|Army Day
+中国|CN|M|09-10|中国教师节|Teachers Day|4
+中国|CN|M|10-01|国庆节|National|F
+中国|CN|M|11-08|中国记者节|Journalists Day|4
+中国|CN|M|11-09|消防安全宣传日|Fire Safety Day|4
+中国|CN|M|05-12|国际护士节|International Nurses Day|4
+中国|CN|M|12-13|公祭日|Memorial
+中国|CN|L|01-01|春节|SpringFest|F
+中国|CN|L|01-15|元宵节|Lantern
+中国|CN|L|02-02|龙抬头|LongTai
+中国|CN|L|05-05|端午节|DragonBoat|F
+中国|CN|L|07-07|七夕|Qixi
+中国|CN|L|07-15|中元节|GhostFest
+中国|CN|L|08-15|中秋节|MidAutumn|F
+中国|CN|L|09-09|重阳节|Chongyang
+中国|CN|L|12-08|腊八节|Laba
+中国|CN|L|12-23|小年|XiaoNian
+通用|*|M|01-01|元旦|New Year
+通用|*|M|02-14|情人节|Valentine
+通用|*|M|03-08|妇女节|WomensDay
+通用|*|M|03-15|国际消费者权益日|World Consumer Rights Day|4
+通用|*|M|03-22|世界水日|World Water Day|4
+通用|*|M|04-01|愚人节|AprilFools
+通用|*|M|04-07|世界卫生日|World Health Day|4
+通用|*|M|04-22|世界地球日|Earth Day|4
+通用|*|M|04-23|世界读书日|World Book Day|4
+通用|*|M|05-01|劳动节|LabourDay
+通用|*|M|05-08|世界红十字日|World Red Cross Day|4
+通用|*|M|05-31|世界无烟日|World No Tobacco Day|4
+通用|*|M|06-05|世界环境日|World Environment Day|4
+通用|*|M|09-21|国际和平日|International Day of Peace|4
+通用|*|M|10-16|世界粮食日|World Food Day|4
+通用|*|M|10-31|万圣夜|Halloween
+通用|*|M|12-01|世界艾滋病日|World AIDS Day|4
+通用|*|M|12-24|平安夜|Xmas Eve
+通用|*|M|12-25|圣诞节|Christmas
+通用|*|M|12-31|跨年夜|NewYearEve
+美国|US|M|01-01|元旦|New Year
+美国|US|M|06-19|六月节|Juneteenth
+美国|US|M|07-04|独立日|Independence
+美国|US|M|11-11|退伍军人节|Veterans Day|4
+美国|US|M|12-25|圣诞节|Christmas
+美国|US|W|01:3MON|马丁路德|MLK Day
+美国|US|W|02:3MON|总统日|Presidents
+美国|US|W|05:LMON|阵亡日|Memorial
+美国|US|W|09:1MON|劳动节|Labor Day
+美国|US|W|10:2MON|哥伦布日|Columbus
+美国|US|W|11:4THU|感恩节|Thanksgiving
+新西兰|NZ|M|01-01|元旦|New Year
+新西兰|NZ|M|02-06|怀唐伊|Waitangi
+新西兰|NZ|M|04-25|军团日|ANZAC
+新西兰|NZ|M|12-25|圣诞节|Christmas
+新西兰|NZ|M|12-26|节礼日|Boxing
+新西兰|NZ|W|06:1MON|国王诞辰|KingsBirth
+新西兰|NZ|W|10:4MON|劳动节|LabourDay
+英国|GB|M|01-01|元旦|New Year
+英国|GB|M|11-05|篝火夜|GuyFawkes
+英国|GB|M|12-25|圣诞节|Christmas
+英国|GB|M|12-26|节礼日|Boxing
+英国|GB|W|05:1MON|五朔节|MayDay
+英国|GB|W|08:LMON|夏假|SummerBank
+英国|GB|E|0|复活节|Easter
+英国|GB|E|1|复活节一|EasterMon
+日本|JP|M|01-01|元旦|New Year
+日本|JP|M|02-11|建国记念|Foundation
+日本|JP|M|02-23|天皇诞辰|Emperors
+日本|JP|M|04-29|昭和日|Showa
+日本|JP|M|05-03|宪法记念|Constitution
+日本|JP|M|05-04|绿之日|Greenery
+日本|JP|M|05-05|儿童节|Childrens
+日本|JP|M|08-11|山之日|Mountain
+日本|JP|M|11-03|文化日|Culture
+日本|JP|M|11-23|勤劳感谢|LabourThks
+日本|JP|W|01:2MON|成人日|ComingOfAge
+日本|JP|W|07:3MON|海之日|Marine
+日本|JP|W|09:3MON|敬老日|RespectOld
+日本|JP|W|10:2MON|体育日|Sports
+德国|DE|M|01-01|元旦|New Year
+德国|DE|M|10-03|统一日|Unity
+德国|DE|M|11-11|圣马丁|StMartin
+德国|DE|M|12-06|圣尼古拉|StNicholas
+德国|DE|M|12-25|圣诞节|Christmas
+德国|DE|M|12-26|节礼日|Boxing
+德国|DE|E|-2|耶稣受难|GoodFriday
+德国|DE|E|0|复活节|Easter
+德国|DE|E|1|复活节一|EasterMon
+法国|FR|M|01-01|元旦|New Year
+法国|FR|M|05-01|劳动节|LabourDay
+法国|FR|M|05-08|胜利日|Victory
+法国|FR|M|07-14|国庆节|Bastille
+法国|FR|M|08-15|圣母升天|Assumption
+法国|FR|M|11-01|诸圣节|AllSaints
+法国|FR|M|11-11|停战日|Armistice
+法国|FR|M|12-25|圣诞节|Christmas
+法国|FR|E|1|复活节一|EasterMon
+加拿大|CA|M|01-01|元旦|New Year
+加拿大|CA|M|07-01|加拿大日|Canada
+加拿大|CA|M|11-11|纪念日|Remembrance
+加拿大|CA|M|12-25|圣诞节|Christmas
+加拿大|CA|W|09:1MON|劳动节|LabourDay
+加拿大|CA|W|10:2MON|感恩节|Thanksgiving
+加拿大|CA|W|08:1MON|假日|Civic
+澳大利亚|AU|M|01-01|元旦|New Year
+澳大利亚|AU|M|01-26|澳洲日|Australia
+澳大利亚|AU|M|04-25|军团日|ANZAC
+澳大利亚|AU|M|12-25|圣诞节|Christmas
+澳大利亚|AU|M|12-26|节礼日|Boxing
+澳大利亚|AU|W|06:2MON|国王诞辰|KingsBirth
+澳大利亚|AU|E|-2|耶稣受难|GoodFriday
+澳大利亚|AU|E|1|复活节一|EasterMon
+# 24 节气：类型 S，规则=节气名，优先级 3（格内）
+通用|*|S|小寒|小寒|Minor Cold
+通用|*|S|大寒|大寒|Major Cold
+通用|*|S|立春|立春|Start of Spring
+通用|*|S|雨水|雨水|Rain Water
+通用|*|S|惊蛰|惊蛰|Awakening
+通用|*|S|春分|春分|Vernal Equinox
+通用|*|S|清明|清明|Qingming
+通用|*|S|谷雨|谷雨|Grain Rain
+通用|*|S|立夏|立夏|Start of Summer
+通用|*|S|小满|小满|Grain Buds
+通用|*|S|芒种|芒种|Grain in Ear
+通用|*|S|夏至|夏至|Summer Solstice
+通用|*|S|小暑|小暑|Minor Heat
+通用|*|S|大暑|大暑|Major Heat
+通用|*|S|立秋|立秋|Start of Autumn
+通用|*|S|处暑|处暑|End of Heat
+通用|*|S|白露|白露|White Dew
+通用|*|S|秋分|秋分|Autumnal Equinox
+通用|*|S|寒露|寒露|Cold Dew
+通用|*|S|霜降|霜降|Frost Descent
+通用|*|S|立冬|立冬|Start of Winter
+通用|*|S|小雪|小雪|Minor Snow
+通用|*|S|大雪|大雪|Major Snow
+通用|*|S|冬至|冬至|Winter Solstice
+# 1.4 补齐：民俗节日 + 行业宣传日 / 纪念日（优先级 4 = 进格，排在农历节气与国别大节之后）
+中国|CN|L|10-01|寒衣节|WinterClothes
+中国|CN|L|03-03|上巳节|Shangsi
+中国|CN|M|01-10|中国人民警察节|Chinese People Police Day|4
+中国|CN|M|03-12|中国植树节|China Arbor Day|4
+中国|CN|M|04-15|全民国家安全教育日|National Security Education Day|4
+中国|CN|M|05-19|中国旅游日|China Tourism Day|4
+中国|CN|M|08-19|中国医师节|Chinese Doctors Day|4
+中国|CN|M|09-20|全国爱牙日|National Teeth Care Day|4
+中国|CN|M|12-02|全国交通安全日|National Traffic Safety Day|4
+中国|CN|M|12-04|国家宪法日|National Constitution Day|4
+通用|*|M|03-21|世界森林日|World Forest Day|4
+通用|*|M|05-18|国际博物馆日|International Museum Day|4
+通用|*|M|06-26|国际禁毒日|International Day Against Drug Abuse|4
+通用|*|M|10-13|国际减灾日|International Day for Disaster Reduction|4
+通用|*|M|12-05|国际志愿者日|International Volunteer Day|4
+通用|*|W|05:2SUN|母亲节|MothersDay
+通用|*|W|06:3SUN|父亲节|FathersDay
+中国|CN|M|01-10|110宣传日|110 Day|4
+中国|CN|M|10-10|辛亥革命纪念日|Xinhai Revolution|4
+通用|*|M|11-01|万圣节|All Saints Day
+通用|*|E|0|复活节|Easter
+通用|*|W|11:4THU|感恩节|Thanksgiving
