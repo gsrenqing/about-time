@@ -11,7 +11,6 @@ A full-featured Windows desktop clock widget: world clocks, calendar, lunar cale
 ```
 ├─ 源码/            # C# sources, fonts, city/timezone/lunar/holiday data, alarm sounds, build notes
 ├─ 成品/            # Compiled AboutTime.exe and notes
-├─ 审阅截图/        # Acceptance & review screenshots
 ├─ 审阅报告_v2.1_BUG与优化.md
 ├─ LICENSE          # GPL-3.0
 └─ README.md
@@ -66,7 +65,6 @@ This project is open-sourced under **GPL-3.0**; see [LICENSE](LICENSE). For non-
 ```
 ├─ 源码/            # C# 源码、字体、城市/时区/农历/节日数据、提示音、编译说明
 ├─ 成品/            # 已编译的 AboutTime.exe 与说明
-├─ 审阅截图/        # 验收与审阅截图
 ├─ 审阅报告_v2.1_BUG与优化.md
 ├─ LICENSE          # GPL-3.0
 └─ README.md
